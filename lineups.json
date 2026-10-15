@@ -1,7 +1,7 @@
 {
   "version": 1792069047570,
   "updatedAt": "2026-10-15 20:57",
-  "imageBase": "https://fastly.jsdelivr.net/gh/Go0seTL/leshen-jcc-data@main/img/",
+  "imageBase": "https://raw.githubusercontent.com/Go0seTL/leshen-jcc-data/main/img/",
   "lineups": [
     {
       "id": "sample_1",
