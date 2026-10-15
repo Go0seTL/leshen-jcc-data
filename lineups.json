@@ -6,8 +6,8 @@
     {
       "id": "sample_1",
       "name": "示例阵容一",
-      "banner": "banner/sample_1.webp",
-      "position": "position/sample_1.webp",
+      "banner": "banner/sample_1.png",
+      "position": "position/sample_1.png",
       "code": "把你在游戏里编辑好的阵容码粘贴到这里",
       "condition": "开局拿到青龙刀 + 任意 3 费卡，能顺利拿到 2 星核心",
       "operation": "2-1 拉六，3-2 拉到七找核心，4-1 上八补强。中期不要为了利息亏太多血量，血量比利息重要。",
@@ -21,8 +21,8 @@
     {
       "id": "sample_2",
       "name": "示例阵容二",
-      "banner": "banner/sample_2.webp",
-      "position": "position/sample_2.webp",
+      "banner": "banner/sample_2.png",
+      "position": "position/sample_2.png",
       "code": "第二个阵容的阵容码",
       "condition": "开局就有两件核心装备，或者前期连败攒装备",
       "operation": "前期故意连败攒装备和经济，3-2 一波拉升，中期靠装备优势打连胜。",
